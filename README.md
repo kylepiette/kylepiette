@@ -1,0 +1,4 @@
+- 👋 Hey there! I am @kylepiette and work full time as a Software Engineer at Cadence Design Systems
+- 👀 I’m interested in learning new technologies and expanding my CS skillset.
+- 🌱 I’m currently learning machine learning in Python.
+- 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/kyle-piette-72461355/
